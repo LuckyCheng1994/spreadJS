@@ -1,0 +1,57 @@
+{
+  "_from": "@grapecity/spread-sheets-resources-zh@^14.0.9",
+  "_id": "@grapecity/spread-sheets-resources-zh@14.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-9MxcleLe0amab9GiUNS6w3ANE+r0+XdbZTjXOTy6fplfb/RI/9NsNSVflA+CQUCWErMB2cVdbn3P8wFG3CglTw==",
+  "_location": "/@grapecity/spread-sheets-resources-zh",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@grapecity/spread-sheets-resources-zh@^14.0.9",
+    "name": "@grapecity/spread-sheets-resources-zh",
+    "escapedName": "@grapecity%2fspread-sheets-resources-zh",
+    "scope": "@grapecity",
+    "rawSpec": "^14.0.9",
+    "saveSpec": null,
+    "fetchSpec": "^14.0.9"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@grapecity/spread-sheets-resources-zh/-/spread-sheets-resources-zh-14.0.9.tgz",
+  "_shasum": "4db0d61a2166beb596944acb2a74ebeac9b9907d",
+  "_spec": "@grapecity/spread-sheets-resources-zh@^14.0.9",
+  "_where": "E:\\formal-project\\stiee-cloud-v1",
+  "author": {
+    "name": "GrapeCity, Inc",
+    "email": "us.sales@grapecity.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@grapecity/spread-sheets": "14.0.9"
+  },
+  "deprecated": false,
+  "description": "SpreadJS zh-cn resources",
+  "homepage": "https://www.grapecity.com/spreadjs",
+  "keywords": [
+    "spread-sheets-zh",
+    "resources",
+    "chinese",
+    "chinese excel",
+    "chinese javascript spreadsheet",
+    "zh",
+    "spread",
+    "sheets",
+    "sheet",
+    "javascript",
+    "excel",
+    "grapecity"
+  ],
+  "license": "Commercial",
+  "main": "index.js",
+  "name": "@grapecity/spread-sheets-resources-zh",
+  "scripts": {},
+  "version": "14.0.9"
+}

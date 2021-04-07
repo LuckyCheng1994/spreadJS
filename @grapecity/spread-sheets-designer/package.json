@@ -1,0 +1,55 @@
+{
+  "_from": "@grapecity/spread-sheets-designer@^14.0.9",
+  "_id": "@grapecity/spread-sheets-designer@14.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-t2u6AieTuuoL8UnKPgxZuVezPnN3J/oS4yQ75qSbobIFJRW7l+kxme9WWmuUN+BQRWmw6aTr4WdPg/uXeOgKTw==",
+  "_location": "/@grapecity/spread-sheets-designer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@grapecity/spread-sheets-designer@^14.0.9",
+    "name": "@grapecity/spread-sheets-designer",
+    "escapedName": "@grapecity%2fspread-sheets-designer",
+    "scope": "@grapecity",
+    "rawSpec": "^14.0.9",
+    "saveSpec": null,
+    "fetchSpec": "^14.0.9"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@grapecity/spread-sheets-designer/-/spread-sheets-designer-14.0.9.tgz",
+  "_shasum": "667579dc6df37ae3c076a263df30fa3d73a9e5d9",
+  "_spec": "@grapecity/spread-sheets-designer@^14.0.9",
+  "_where": "E:\\formal-project\\stiee-cloud-v1",
+  "author": {
+    "name": "GrapeCity, Inc",
+    "email": "us.sales@grapecity.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "SpreadJS Designer Component present as a control that could be embedded into your web application easily, and also provided flexible, customizable configuration to achieve your business logic.",
+  "homepage": "https://www.grapecity.com/spreadjs",
+  "keywords": [
+    "spread-sheets",
+    "javascript spreadsheet",
+    "javascript excel",
+    "excel io",
+    "sheets",
+    "sheet",
+    "designer",
+    "javascript",
+    "excel",
+    "grapecity",
+    "spreadjs",
+    "spreadjs designer"
+  ],
+  "license": "Commercial",
+  "main": "index.js",
+  "name": "@grapecity/spread-sheets-designer",
+  "scripts": {},
+  "version": "14.0.9"
+}

@@ -1,0 +1,53 @@
+{
+  "_from": "@grapecity/spread-sheets-pivot-addon",
+  "_id": "@grapecity/spread-sheets-pivot-addon@14.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-9A8Fp8xrwlx1738orrIjrRi15fpApXU0S0YHKJg3O6mjuXx3bC10+t+NKT6Aq1x3DiqewqK4Omm6uaLkz09vjQ==",
+  "_location": "/@grapecity/spread-sheets-pivot-addon",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@grapecity/spread-sheets-pivot-addon",
+    "name": "@grapecity/spread-sheets-pivot-addon",
+    "escapedName": "@grapecity%2fspread-sheets-pivot-addon",
+    "scope": "@grapecity",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@grapecity/spread-sheets-pivot-addon/-/spread-sheets-pivot-addon-14.0.9.tgz",
+  "_shasum": "1566eb4e831adfa54f08c80452cc88c46658bf15",
+  "_spec": "@grapecity/spread-sheets-pivot-addon",
+  "_where": "E:\\formal-project\\stiee-cloud-v1",
+  "author": {
+    "name": "GrapeCity, Inc",
+    "email": "us.sales@grapecity.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@grapecity/spread-sheets": "14.0.9"
+  },
+  "deprecated": false,
+  "description": "SpreadJS Pivot plugin",
+  "keywords": [
+    "spread-sheets-pivot-addon",
+    "OLAP",
+    "pivot",
+    "pivotTable",
+    "pivot table",
+    "spread",
+    "sheet",
+    "javascript",
+    "excel"
+  ],
+  "license": "Commercial",
+  "main": "index.js",
+  "name": "@grapecity/spread-sheets-pivot-addon",
+  "scripts": {},
+  "version": "14.0.9"
+}

@@ -1,0 +1,55 @@
+{
+  "_from": "@grapecity/spread-sheets-designer-resources-cn",
+  "_id": "@grapecity/spread-sheets-designer-resources-cn@14.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-w2bQLUaT4bVXu3ORNV0r1eBSbRvzO1KE3HwcRnlDMm2ck1tI50unp22kYipkULS7VLqPy/EBU6Hir0oNvhmjXg==",
+  "_location": "/@grapecity/spread-sheets-designer-resources-cn",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@grapecity/spread-sheets-designer-resources-cn",
+    "name": "@grapecity/spread-sheets-designer-resources-cn",
+    "escapedName": "@grapecity%2fspread-sheets-designer-resources-cn",
+    "scope": "@grapecity",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@grapecity/spread-sheets-designer-resources-cn/-/spread-sheets-designer-resources-cn-14.0.9.tgz",
+  "_shasum": "0533c139fdf942cd42d648bf31265ff56ee359a2",
+  "_spec": "@grapecity/spread-sheets-designer-resources-cn",
+  "_where": "E:\\formal-project\\stiee-cloud-v1",
+  "author": {
+    "name": "GrapeCity, Inc",
+    "email": "us.sales@grapecity.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "A Complete Microsoft Excel-like JavaScript Spreadsheet for Enterprise Applications",
+  "homepage": "https://www.grapecity.com/spreadjs",
+  "keywords": [
+    "spread-sheets",
+    "javascript spreadsheet",
+    "javascript excel",
+    "excel io",
+    "sheets",
+    "sheet",
+    "designer",
+    "javascript",
+    "excel",
+    "grapecity",
+    "spreadjs",
+    "spreaddesigner"
+  ],
+  "license": "Commercial",
+  "main": "index.js",
+  "name": "@grapecity/spread-sheets-designer-resources-cn",
+  "scripts": {},
+  "version": "14.0.9"
+}

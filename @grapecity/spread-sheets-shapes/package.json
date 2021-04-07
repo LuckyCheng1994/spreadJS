@@ -1,0 +1,50 @@
+{
+  "_from": "@grapecity/spread-sheets-shapes",
+  "_id": "@grapecity/spread-sheets-shapes@14.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-mPgYN8JFfYIuMrfkAaX9q5P2n9O0kPPXMDMmso5Y0FDXBOo8qnk4W2k8bWBhZ5OSWfCIHSDBKF3ucVG6D8BSBg==",
+  "_location": "/@grapecity/spread-sheets-shapes",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@grapecity/spread-sheets-shapes",
+    "name": "@grapecity/spread-sheets-shapes",
+    "escapedName": "@grapecity%2fspread-sheets-shapes",
+    "scope": "@grapecity",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@grapecity/spread-sheets-shapes/-/spread-sheets-shapes-14.0.9.tgz",
+  "_shasum": "1d00f4c5c3b43a3520578170b03af20d670ba31f",
+  "_spec": "@grapecity/spread-sheets-shapes",
+  "_where": "E:\\formal-project\\stiee-cloud-v1",
+  "author": {
+    "name": "GrapeCity, Inc",
+    "email": "us.sales@grapecity.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@grapecity/spread-sheets": "14.0.9"
+  },
+  "deprecated": false,
+  "description": "SpreadJS Shape plugin",
+  "keywords": [
+    "spread-sheets-shapes",
+    "shapes",
+    "spread",
+    "sheet",
+    "javascript",
+    "excel"
+  ],
+  "license": "Commercial",
+  "main": "index.js",
+  "name": "@grapecity/spread-sheets-shapes",
+  "scripts": {},
+  "version": "14.0.9"
+}

@@ -1,0 +1,57 @@
+{
+  "_from": "@grapecity/spread-sheets-pdf",
+  "_id": "@grapecity/spread-sheets-pdf@14.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-NpSIh9ycqAlkLdwmHfRrmZNZC8tXPhNPTdy4JLQXSmr6RVQEihhmGBz5AOGm/vYUKo2O/cE7BjolOhPGo2MPUQ==",
+  "_location": "/@grapecity/spread-sheets-pdf",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@grapecity/spread-sheets-pdf",
+    "name": "@grapecity/spread-sheets-pdf",
+    "escapedName": "@grapecity%2fspread-sheets-pdf",
+    "scope": "@grapecity",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@grapecity/spread-sheets-pdf/-/spread-sheets-pdf-14.0.9.tgz",
+  "_shasum": "9de6d8e42f2d995ad383bd750aa7bfbcb17be3b3",
+  "_spec": "@grapecity/spread-sheets-pdf",
+  "_where": "E:\\formal-project\\stiee-cloud-v1",
+  "author": {
+    "name": "GrapeCity, Inc",
+    "email": "us.sales@grapecity.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@grapecity/spread-sheets": "14.0.9",
+    "@grapecity/spread-sheets-print": "14.0.9"
+  },
+  "deprecated": false,
+  "description": "SpreadJS PDF export plugin",
+  "homepage": "https://www.grapecity.com/spreadjs",
+  "keywords": [
+    "spread-sheets-pdf",
+    "spreadjs-pdf",
+    "javascript spreadsheet",
+    "javascript pdf",
+    "pdf",
+    "export pdf",
+    "spread",
+    "sheet",
+    "javascript",
+    "excel",
+    "grapecity"
+  ],
+  "license": "Commercial",
+  "main": "index.js",
+  "name": "@grapecity/spread-sheets-pdf",
+  "scripts": {},
+  "version": "14.0.9"
+}

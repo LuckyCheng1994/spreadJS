@@ -1,0 +1,53 @@
+{
+  "_from": "@grapecity/spread-sheets-languagepackages",
+  "_id": "@grapecity/spread-sheets-languagepackages@14.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-bRDP2YXgT2BJmge9LVyziippopTgTgK3OVTH3vskXmH5A7qhyw+9/ru2sPiYvD/w2pvKx973OCZV+OhZwJORCg==",
+  "_location": "/@grapecity/spread-sheets-languagepackages",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@grapecity/spread-sheets-languagepackages",
+    "name": "@grapecity/spread-sheets-languagepackages",
+    "escapedName": "@grapecity%2fspread-sheets-languagepackages",
+    "scope": "@grapecity",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@grapecity/spread-sheets-languagepackages/-/spread-sheets-languagepackages-14.0.9.tgz",
+  "_shasum": "59257547fd6eec0de345b124105c351a8219d513",
+  "_spec": "@grapecity/spread-sheets-languagepackages",
+  "_where": "E:\\formal-project\\stiee-cloud-v1",
+  "author": {
+    "name": "GrapeCity, Inc",
+    "email": "us.sales@grapecity.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@grapecity/spread-sheets": "14.0.9"
+  },
+  "deprecated": false,
+  "description": "SpreadJS Calcengine Language Packages plugin",
+  "keywords": [
+    "spread-sheets-languagepackages",
+    "spreadjs-languagepackages",
+    "languagepackages",
+    "calcengine",
+    "spread",
+    "sheet",
+    "javascript",
+    "excel",
+    "grapecity"
+  ],
+  "license": "Commercial",
+  "main": "index.js",
+  "name": "@grapecity/spread-sheets-languagepackages",
+  "scripts": {},
+  "version": "14.0.9"
+}

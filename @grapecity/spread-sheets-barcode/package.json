@@ -1,0 +1,53 @@
+{
+  "_from": "@grapecity/spread-sheets-barcode",
+  "_id": "@grapecity/spread-sheets-barcode@14.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-npg14CA3uvQ32ifGoFciF2u3DCjvTVFk5DrZQWpcVqRLkQPDzxUMt4QuP5Dq+9yNR8Rm+7YlYBZ+Op13HHBWeQ==",
+  "_location": "/@grapecity/spread-sheets-barcode",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@grapecity/spread-sheets-barcode",
+    "name": "@grapecity/spread-sheets-barcode",
+    "escapedName": "@grapecity%2fspread-sheets-barcode",
+    "scope": "@grapecity",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@grapecity/spread-sheets-barcode/-/spread-sheets-barcode-14.0.9.tgz",
+  "_shasum": "b780009ffb4fe22ab0ef5295101d5c9e9f9498cf",
+  "_spec": "@grapecity/spread-sheets-barcode",
+  "_where": "E:\\formal-project\\stiee-cloud-v1",
+  "author": {
+    "name": "GrapeCity, Inc",
+    "email": "us.sales@grapecity.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@grapecity/spread-sheets": "14.0.9"
+  },
+  "deprecated": false,
+  "description": "SpreadJS Barcode plugin",
+  "keywords": [
+    "spread-sheets-barcode",
+    "spreadjs-barcode",
+    "barcode",
+    "sparkline",
+    "spread",
+    "sheet",
+    "javascript",
+    "excel",
+    "grapecity"
+  ],
+  "license": "Commercial",
+  "main": "index.js",
+  "name": "@grapecity/spread-sheets-barcode",
+  "scripts": {},
+  "version": "14.0.9"
+}

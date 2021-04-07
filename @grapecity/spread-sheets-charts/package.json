@@ -1,0 +1,57 @@
+{
+  "_from": "@grapecity/spread-sheets-charts",
+  "_id": "@grapecity/spread-sheets-charts@14.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-kuhg+cZYylS9uzKllGphY/fliUlUnyoaNUPCdl3bU2dJIkI0+5VUham/1gwMyxAu6xqK9MPqOSlxwbHC8W9Ihw==",
+  "_location": "/@grapecity/spread-sheets-charts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@grapecity/spread-sheets-charts",
+    "name": "@grapecity/spread-sheets-charts",
+    "escapedName": "@grapecity%2fspread-sheets-charts",
+    "scope": "@grapecity",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@grapecity/spread-sheets-charts/-/spread-sheets-charts-14.0.9.tgz",
+  "_shasum": "51646a7166e4defbba8c6b6a0bbca2257b70e499",
+  "_spec": "@grapecity/spread-sheets-charts",
+  "_where": "E:\\formal-project\\stiee-cloud-v1",
+  "author": {
+    "name": "GrapeCity, Inc",
+    "email": "us.sales@grapecity.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@grapecity/spread-sheets": "14.0.9"
+  },
+  "deprecated": false,
+  "description": "SpreadJS Chart plugin",
+  "homepage": "https://www.grapecity.com/spreadjs",
+  "keywords": [
+    "spread-sheets-charts",
+    "spreadjs-charts",
+    "javascript spreadsheet",
+    "javascript excel",
+    "javascript charts",
+    "excel charts",
+    "charts",
+    "spread",
+    "sheet",
+    "javascript",
+    "excel",
+    "grapecity"
+  ],
+  "license": "Commercial",
+  "main": "index.js",
+  "name": "@grapecity/spread-sheets-charts",
+  "scripts": {},
+  "version": "14.0.9"
+}
